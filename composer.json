@@ -7,7 +7,6 @@
             "email": "folleah5@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "version": "0.0.1",
     "autoload": {
         "psr-4": {
