@@ -1,0 +1,12 @@
+{
+    "name": "folleah/psr-interfaces",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Psr\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
