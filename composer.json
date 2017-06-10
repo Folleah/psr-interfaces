@@ -1,12 +1,16 @@
 {
     "name": "folleah/psr-interfaces",
     "type": "library",
+    "authors": [
+        {
+            "name": "Андрей Волков",
+            "email": "folleah5@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Psr\\": "src/"
         }
-    },
-    "config": {
-        "optimize-autoloader": true
     }
 }
